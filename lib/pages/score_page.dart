@@ -8,7 +8,6 @@ class ScorePage extends StatelessWidget {
 
   ScorePage(this.score, this.totalQuestions);
 
-
   @override
   Widget build(BuildContext context) {
     return new Material(
